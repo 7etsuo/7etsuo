@@ -26,7 +26,7 @@ Through Offensive Security, I am currently studying for the Windows User Mode Ex
 | ***email*** | `sn0w.crash@icloud.com` | 
 
 ## CTF Writeups
-- https://github.com/snowcra5h/zh3r0-CTF-writeup
+- https://github.com/snowcra5h/zh3r0-CTF-binaryexploit
 - https://ctftime.org/writeup/21710
 - https://ctftime.org/writeup/21729
 - https://ctftime.org/writeup/21728
