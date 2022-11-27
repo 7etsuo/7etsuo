@@ -22,7 +22,7 @@ Through Offensive Security, I am currently studying for the Windows User Mode Ex
 
 ## Contact
 | ***irc*** | `irc.us.libera.chat` |
-| :---: | :---: |
+| :--- | :--- |
 | ***discord*** | `snowcrash#5684` | 
 | ***email*** | `sn0w.crash@icloud.com` | 
 
