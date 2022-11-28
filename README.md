@@ -5,8 +5,9 @@ Here are some ideas to get you started:
 
 -->
 # snowcra5h
-## Certifications
-Through Offensive Security, I am currently studying for the Windows User Mode Exploit Development ***(OSED)*** Certification.
+## About
+
+Excessively driven developer, constantly labouring on self-improvement and supporting others.
 
 ## CVEs
 - ***CVE-2003-0358***
@@ -15,10 +16,15 @@ Through Offensive Security, I am currently studying for the Windows User Mode Ex
 - https://www.exploit-db.com/?author=4939
 
 ## Education
-| Degree | Expected |
+| Training | Expected Date of Completion |
 | :--- | :--- |
-| Computer Science, BSc | Fourth Year |
-| Minor in Mathematics | Completed |
+| Computer Science, BSc | 2023 |
+| Minor in Mathematics, BSc | 2021 - Completed |
+| Kali Linux Certified Professional (KLCP) | 2022 | 
+| Offensive Security Wireless Attacks (OSWP) | 2022 | 
+| Windows User Mode Exploit Development (OSED) | 2023 |
+| Offensive Security Certified Professional (OSCP) | 2023 |
+
 
 ## Contact
 | ***irc*** | `irc.us.libera.chat` |
