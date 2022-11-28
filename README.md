@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 # snowcra5h
 ## Certifications
-_Through Offensive Security, I am currently studying for the Windows User Mode Exploit Development ***(OSED)*** Certification._
+Through Offensive Security, I am currently studying for the Windows User Mode Exploit Development ***(OSED)*** Certification.
 
 ## CVEs
 - ***CVE-2003-0358***
