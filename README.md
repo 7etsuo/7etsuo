@@ -24,7 +24,7 @@ Through Offensive Security, I am currently studying for the Windows User Mode Ex
 | ***irc*** | `irc.us.libera.chat` |
 | :--- | :--- |
 | ***discord*** | `snowcrash#5684` | 
-| ***email*** | `sn0w.crash@icloud.com` | 
+| ***email*** | `snowcra5h@icloud.com` | 
 
 ## CTF Writeups
 - https://github.com/snowcra5h/zh3r0-CTF-binaryexploit
