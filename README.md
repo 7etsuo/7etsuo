@@ -30,7 +30,7 @@ Excessively driven developer, constantly labouring on self-improvement and suppo
 ## Contact
 | ***irc*** | `irc.us.libera.chat` |
 | :--- | :--- |
-| ***discord*** | `snowcrash#5684` | 
+| ***discord*** | `snowcrash#0001` | 
 | ***email*** | `snowcra5h@icloud.com` | 
 
 ## CTF Writeups
