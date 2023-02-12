@@ -24,7 +24,7 @@ Excessively driven developer, constantly labouring on self-improvement and suppo
 | Offensive Security Wireless Attacks (OSWP) | 2022 | 
 | Windows User Mode Exploit Development (OSED) | 2023 |
 | Offensive Security Certified Professional (OSCP) | 2023 |
-| RET2 Fundamentals of Software Exploitation | 2023 |
+| [RET2 Fundamentals of Software Exploitation](https://wargames.ret2.systems/course) | 2023 |
 
 
 ## Contact
