@@ -18,10 +18,10 @@ Excessively driven developer, constantly labouring on self-improvement and suppo
 ## Education
 | Training | Expected Date of Completion |
 | :--- | :--- |
-| Computer Science, BSc | 2023 |
-| Minor in Mathematics, BSc | 2021 - Completed |
-| Kali Linux Certified Professional (KLCP) | 2022 | 
-| Offensive Security Wireless Attacks (OSWP) | 2022 | 
+| Computer Science, BSc | 2024 |
+| Minor in Mathematics, BSc | 2023 |
+| Kali Linux Certified Professional (KLCP) | 2023 | 
+| Offensive Security Wireless Attacks (OSWP) | 2023 | 
 | Windows User Mode Exploit Development (OSED) | 2023 |
 | Offensive Security Certified Professional (OSCP) | 2023 |
 | [RET2 Fundamentals of Software Exploitation](https://wargames.ret2.systems/course) | 2023 |
