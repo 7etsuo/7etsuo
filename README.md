@@ -5,8 +5,6 @@ Here are some ideas to get you started:
 
 -->
 # snowcra5h
-## About
-
 Excessively driven developer, constantly labouring on self-improvement and supporting others.
 
 ## CVEs
@@ -38,3 +36,9 @@ Excessively driven developer, constantly labouring on self-improvement and suppo
 - https://ctftime.org/writeup/21710
 - https://ctftime.org/writeup/21729
 - https://ctftime.org/writeup/21728
+
+<div style="background-color: #000000;">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90065760/234469491-411c728a-0df5-40f1-a0e0-2f91a63c20bc.gif" alt="Your GIF" width="640px" height="320px" />
+</div>
+  
