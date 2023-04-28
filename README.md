@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <div>
   <h1> snowcrash </h1>
   </div>  
-  <img src="https://user-images.githubusercontent.com/90065760/234469491-411c728a-0df5-40f1-a0e0-2f91a63c20bc.gif" alt="Your GIF" width="640px" height="320px" />
+  <img src="https://user-images.githubusercontent.com/90065760/235031044-40abe322-398b-4600-8f8e-85d622027dd6.gif" alt="Your GIF" width="200px" height="200px" />
 <div>
  ✨ Excessively driven developer, constantly labouring on self-improvement and supporting others. ✨ 
 </div>
