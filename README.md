@@ -4,18 +4,14 @@
 Here are some ideas to get you started:
 
 -->
-
+# snowcrash
 <div align="center">
-<div>
-  <h1> snowcrash </h1>
-  ✨✨✨ Excessively driven developer, constantly labouring on self-improvement and supporting others. ✨✨✨
-  </div>
+  
+*Excessively driven developer, constantly labouring on self-improvement and supporting others.*
+  
 
-![git](https://user-images.githubusercontent.com/90065760/235245849-264f6a6e-ded8-4176-ad98-19daeb543255.gif)
+  ![git](https://user-images.githubusercontent.com/90065760/235245849-264f6a6e-ded8-4176-ad98-19daeb543255.gif)
 
-</div>
-
-<div align="center">
 
 ## 🧮 Statistics
   ![](https://komarev.com/ghpvc/?username=snowcra5h&color=blue&style=flat)  
