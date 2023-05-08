@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 | Windows User Mode Exploit Development (OSED) | 2023 |
 | Offensive Security Certified Professional (OSCP) | 2023 |
 | [RET2 Fundamentals of Software Exploitation](https://wargames.ret2.systems/course) | 2023 |
+  | RED TEAM Operator: Malware Development Essentials | 2023 | 
 
 ## 🐛 CVE-2003-0358
 > _Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option._
