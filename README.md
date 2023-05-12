@@ -8,10 +8,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 *Excessively driven developer, constantly labouring on self-improvement and supporting others.*
-  
-![snow_2](https://github.com/snowcra5h/snowcra5h/assets/90065760/33c3ef9e-0f9e-4566-ab37-3c9a6c82cb72)
 
-
+  ![snowcrash_banner_good](https://github.com/snowcra5h/snowcra5h/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
 
 ## 🧮 Statistics
   ![](https://komarev.com/ghpvc/?username=snowcra5h&color=blue&style=flat)  
