@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 -->
 # snowcrash
 <div align="center">
-  
+
 *Excessively driven developer, constantly labouring on self-improvement and supporting others.*
   
+![snow_2](https://github.com/snowcra5h/snowcra5h/assets/90065760/33c3ef9e-0f9e-4566-ab37-3c9a6c82cb72)
 
-  ![git](https://user-images.githubusercontent.com/90065760/235245849-264f6a6e-ded8-4176-ad98-19daeb543255.gif)
 
 
 ## 🧮 Statistics
