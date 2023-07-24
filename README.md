@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 # snowcrash
 <div align="center">
 
-*Excessively driven developer, constantly labouring on self-improvement.*
+*Excessively driven developer, constantly labouring on self-improvement and supporting others.*
 
   ![snowcrash_banner_good](https://github.com/snowcra5h/snowcra5h/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
 
