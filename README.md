@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [<img src="https://user-images.githubusercontent.com/90065760/235227703-3b129755-5a2e-4395-9ae7-7c5359129075.png" alt="Icon" width="16" height="16" /> Ronin](https://github.com/ronin-rb/ronin-rb.github.io/pull/20) | Updated broken link for Pragmatic Programmers Guide to Ruby |
   
 ##  📫 Get in Touch
+
 | :--- | :--- |
 | ***email*** | snowcra5h@icloud.com | 
 | ***X*** | https://twitter.com/snowcra5h |
