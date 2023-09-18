@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 | ***email*** | snowcra5h@icloud.com |
 | :--- | :--- |
-| ***X*** | https://twitter.com/snowcra5h |
+| ***X*** | https://x.com/snowcra5h |
 
 ## 🐛 CVE-2003-0358
 > _Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option._
