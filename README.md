@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   
 ##  📫 Get in Touch
 
+| ***email*** | snowcra5h@icloud.com |
 | :--- | :--- |
-| ***email*** | snowcra5h@icloud.com | 
 | ***X*** | https://twitter.com/snowcra5h |
 
 ## 🐛 CVE-2003-0358
