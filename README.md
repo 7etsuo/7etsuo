@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 | [<img src="https://user-images.githubusercontent.com/90065760/235226508-e02f6450-e3e8-4725-9c56-c13169f89ee8.png" alt="Icon" width="16" height="16" /> Kali](https://gitlab.com/kalilinux/documentation/kali-docs/-/merge_requests/281/diffs?commit_id=a5eaa90fb34a89ad5bf4d9cc3f4b3e416d91d68c) | Fixed a broken historical link in the 'Kali Linux History' topic. |
 | [<img src="https://user-images.githubusercontent.com/90065760/235226508-e02f6450-e3e8-4725-9c56-c13169f89ee8.png" alt="Icon" width="16" height="16" /> Kali](https://www.kali.org/blog/kali-linux-2023-1-release/#community-shout-outs) | Got a shoutout for contributing to the community by sharing my notes, and resources with users. |
 | [<img src="https://user-images.githubusercontent.com/90065760/235227703-3b129755-5a2e-4395-9ae7-7c5359129075.png" alt="Icon" width="16" height="16" /> Ronin](https://github.com/ronin-rb/ronin-rb.github.io/pull/20) | Updated broken link for Pragmatic Programmers Guide to Ruby |
-  
-##  📫 Get in Touch
-
-| ***email*** | snowcra5h@icloud.com |
-| :--- | :--- |
-| ***X*** | https://x.com/snowcra5h |
 
 ## 🐛 CVE-2003-0358
 > _Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option._
