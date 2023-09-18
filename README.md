@@ -25,24 +25,9 @@ Here are some ideas to get you started:
 | [<img src="https://user-images.githubusercontent.com/90065760/235227703-3b129755-5a2e-4395-9ae7-7c5359129075.png" alt="Icon" width="16" height="16" /> Ronin](https://github.com/ronin-rb/ronin-rb.github.io/pull/20) | Updated broken link for Pragmatic Programmers Guide to Ruby |
   
 ##  📫 Get in Touch
-| ***irc*** | `irc.us.libera.chat` |
 | :--- | :--- |
-| ***discord*** | `snowcrash#0001` | 
 | ***email*** | snowcra5h@icloud.com | 
-| ***twitter*** | https://twitter.com/snowcra5h |
-
-
-## 🎓 Education
-| Training | Expected Date of Completion |
-| :--- | :--- |
-| Computer Science, BSc | 2024 |
-| Minor in Mathematics, BSc | 2023 |
-| Kali Linux Certified Professional (KLCP) | 2023 | 
-| Offensive Security Wireless Attacks (OSWP) | 2023 | 
-| Windows User Mode Exploit Development (OSED) | 2023 |
-| Offensive Security Certified Professional (OSCP) | 2023 |
-| [RET2 Fundamentals of Software Exploitation](https://wargames.ret2.systems/course) | 2023 |
-  | RED TEAM Operator: Malware Development Essentials | **2023 Completed** | 
+| ***X*** | https://twitter.com/snowcra5h |
 
 ## 🐛 CVE-2003-0358
 > _Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option._
