@@ -1,5 +1,5 @@
 <!--
-**snowcra5h/snowcra5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**7etsuo/7etsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 *Excessively driven developer, constantly labouring on self-improvement and supporting others.*
 
-  ![snowcrash_banner_good](https://github.com/snowcra5h/snowcra5h/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
+  ![snowcrash_banner_good](https://github.com/7etsuo/7etsuo/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
 
 ## 🧮 Statistics
-  ![](https://komarev.com/ghpvc/?username=snowcra5h&color=blue&style=flat)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcra5h)  
+  ![](https://komarev.com/ghpvc/?username=7etsuo&color=blue&style=flat)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=7etsuo)  
 
 ## 🌟 Small Contributions
 | Contribution | Details |
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 ## 🐛 CVE-2003-0358
 > _Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option._
 
-https://github.com/snowcra5h/CVE-2003-0358  
+https://github.com/7etsuo/CVE-2003-0358  
   https://www.exploit-db.com/?author=4939
 
 
 ## 🏁 CTF Writeups  
-  https://github.com/snowcra5h/zh3r0-CTF-binaryexploit  
+  https://github.com/7etsuo/zh3r0-CTF-binaryexploit  
   https://ctftime.org/writeup/21710  
   https://ctftime.org/writeup/21729  
   https://ctftime.org/writeup/21728  
