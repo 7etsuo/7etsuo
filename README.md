@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-# snowcrash
+# 7etsuo
 <div align="center">
 
 *Excessively driven developer, constantly labouring on self-improvement and supporting others.*
