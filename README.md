@@ -4,6 +4,9 @@
 Here are some ideas to get you started:
 
 -->
+
+<div style="background-color: #FF0000; color: white; padding: 20px;">
+
 # 7etsuo
 <div align="center">
 
