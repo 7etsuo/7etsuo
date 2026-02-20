@@ -34,25 +34,25 @@ static const developer_t tetsuo = {
 <h2>Networking & Systems</h2>
 
 <p align="left">
-  <a href="https://github.com/7etsuo/tetsuo-pulse"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-pulse&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-pulse" /></a>
-  <a href="https://github.com/7etsuo/tcurl"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tcurl&theme=radical&hide_border=true&show_icons=false" alt="tcurl" /></a>
-  <a href="https://github.com/7etsuo/http-server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=http-server&theme=radical&hide_border=true&show_icons=false" alt="http-server" /></a>
+  <a href="https://github.com/7etsuo/tetsuo-pulse"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-pulse&theme=radical&hide_border=true" alt="tetsuo-pulse" /></a>
+  <a href="https://github.com/7etsuo/tcurl"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=tcurl&theme=radical&hide_border=true" alt="tcurl" /></a>
+  <a href="https://github.com/7etsuo/http-server"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=http-server&theme=radical&hide_border=true" alt="http-server" /></a>
 </p>
 
 <h2>Security & Exploit Development</h2>
 
 <p align="left">
-  <a href="https://github.com/7etsuo/windows-api-function-cheatsheets"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=windows-api-function-cheatsheets&theme=radical&hide_border=true&show_icons=false" alt="windows-api-function-cheatsheets" /></a>
-  <a href="https://github.com/7etsuo/win32-shellcode"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=win32-shellcode&theme=radical&hide_border=true&show_icons=false" alt="win32-shellcode" /></a>
-  <a href="https://github.com/7etsuo/deepfreeze-exploit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=deepfreeze-exploit&theme=radical&hide_border=true&show_icons=false" alt="deepfreeze-exploit" /></a>
+  <a href="https://github.com/7etsuo/windows-api-function-cheatsheets"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=windows-api-function-cheatsheets&theme=radical&hide_border=true" alt="windows-api-function-cheatsheets" /></a>
+  <a href="https://github.com/7etsuo/win32-shellcode"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=win32-shellcode&theme=radical&hide_border=true" alt="win32-shellcode" /></a>
+  <a href="https://github.com/7etsuo/deepfreeze-exploit"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=deepfreeze-exploit&theme=radical&hide_border=true" alt="deepfreeze-exploit" /></a>
 </p>
 
 <h2>Assembly</h2>
 
 <p align="left">
-  <a href="https://github.com/7etsuo/Learn-Solana-BPF-Assembly"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=Learn-Solana-BPF-Assembly&theme=radical&hide_border=true&show_icons=false" alt="Learn-Solana-BPF-Assembly" /></a>
-  <a href="https://github.com/7etsuo/x86"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=x86&theme=radical&hide_border=true&show_icons=false" alt="x86" /></a>
-  <a href="https://github.com/7etsuo/x86-assembler"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=x86-assembler&theme=radical&hide_border=true&show_icons=false" alt="x86-assembler" /></a>
+  <a href="https://github.com/7etsuo/Learn-Solana-BPF-Assembly"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=Learn-Solana-BPF-Assembly&theme=radical&hide_border=true" alt="Learn-Solana-BPF-Assembly" /></a>
+  <a href="https://github.com/7etsuo/x86"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=x86&theme=radical&hide_border=true" alt="x86" /></a>
+  <a href="https://github.com/7etsuo/x86-assembler"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=x86-assembler&theme=radical&hide_border=true" alt="x86-assembler" /></a>
 </p>
 
 <h2><a href="https://tetsuocorp.com">tetsuo.ai</a></h2>
@@ -60,9 +60,9 @@ static const developer_t tetsuo = {
 <p>Decentralized AI agent infrastructure on Solana.</p>
 
 <p align="left">
-  <a href="https://github.com/tetsuo-ai/AgenC"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=AgenC&theme=radical&hide_border=true&show_icons=false" alt="AgenC" /></a>
-  <a href="https://github.com/tetsuo-ai/DigitSuo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=DigitSuo&theme=radical&hide_border=true&show_icons=false" alt="DigitSuo" /></a>
-  <a href="https://github.com/tetsuo-ai/tetsuo-code"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=tetsuo-code&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-code" /></a>
+  <a href="https://github.com/tetsuo-ai/AgenC"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=tetsuo-ai&repo=AgenC&theme=radical&hide_border=true" alt="AgenC" /></a>
+  <a href="https://github.com/tetsuo-ai/DigitSuo"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=tetsuo-ai&repo=DigitSuo&theme=radical&hide_border=true" alt="DigitSuo" /></a>
+  <a href="https://github.com/tetsuo-ai/tetsuo-code"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=tetsuo-ai&repo=tetsuo-code&theme=radical&hide_border=true" alt="tetsuo-code" /></a>
 </p>
 
 <details>
@@ -70,21 +70,21 @@ static const developer_t tetsuo = {
 <br>
 
 <p align="left">
-  <a href="https://github.com/7etsuo/dragon-fight"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=dragon-fight&theme=radical&hide_border=true&show_icons=false" alt="dragon-fight" /></a>
-  <a href="https://github.com/7etsuo/ROP-Lab-Server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=ROP-Lab-Server&theme=radical&hide_border=true&show_icons=false" alt="ROP-Lab-Server" /></a>
-  <a href="https://github.com/7etsuo/SecurePassGen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=SecurePassGen&theme=radical&hide_border=true&show_icons=false" alt="SecurePassGen" /></a>
+  <a href="https://github.com/7etsuo/dragon-fight"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=dragon-fight&theme=radical&hide_border=true" alt="dragon-fight" /></a>
+  <a href="https://github.com/7etsuo/ROP-Lab-Server"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=ROP-Lab-Server&theme=radical&hide_border=true" alt="ROP-Lab-Server" /></a>
+  <a href="https://github.com/7etsuo/SecurePassGen"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=SecurePassGen&theme=radical&hide_border=true" alt="SecurePassGen" /></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/7etsuo/ytdl"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=ytdl&theme=radical&hide_border=true&show_icons=false" alt="ytdl" /></a>
-  <a href="https://github.com/7etsuo/tetsuo-dox-agent"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-dox-agent&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-dox-agent" /></a>
-  <a href="https://github.com/tetsuo-ai/memsuo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=memsuo&theme=radical&hide_border=true&show_icons=false" alt="memsuo" /></a>
+  <a href="https://github.com/7etsuo/ytdl"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=ytdl&theme=radical&hide_border=true" alt="ytdl" /></a>
+  <a href="https://github.com/7etsuo/tetsuo-dox-agent"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-dox-agent&theme=radical&hide_border=true" alt="tetsuo-dox-agent" /></a>
+  <a href="https://github.com/tetsuo-ai/memsuo"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=tetsuo-ai&repo=memsuo&theme=radical&hide_border=true" alt="memsuo" /></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/tetsuo-ai/grok-api-mcp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=grok-api-mcp&theme=radical&hide_border=true&show_icons=false" alt="grok-api-mcp" /></a>
-  <a href="https://github.com/7etsuo/galaga"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=galaga&theme=radical&hide_border=true&show_icons=false" alt="galaga" /></a>
-  <a href="https://github.com/7etsuo/tetsuo-gpu-miner"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-gpu-miner&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-gpu-miner" /></a>
+  <a href="https://github.com/tetsuo-ai/grok-api-mcp"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=tetsuo-ai&repo=grok-api-mcp&theme=radical&hide_border=true" alt="grok-api-mcp" /></a>
+  <a href="https://github.com/7etsuo/galaga"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=galaga&theme=radical&hide_border=true" alt="galaga" /></a>
+  <a href="https://github.com/7etsuo/tetsuo-gpu-miner"><img width="278" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-gpu-miner&theme=radical&hide_border=true" alt="tetsuo-gpu-miner" /></a>
 </p>
 
 </details>
@@ -104,8 +104,8 @@ static const developer_t tetsuo = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=7etsuo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7etsuo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=7etsuo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7etsuo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
 
 <br>
 
@@ -114,8 +114,6 @@ static const developer_t tetsuo = {
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=7etsuo&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=7etsuo&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="trophies" />
 
 </div>
 
