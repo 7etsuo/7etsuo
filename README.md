@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/7etsuo/7etsuo/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
 
-**Systems programmer. Security researcher. Founder of [tetsuo.ai](https://tetsuo.ai).**
+**Systems programmer. Security researcher. Founder of [tetsuo.ai](https://tetsuocorp.com).**
 
 <kbd>C</kbd>&nbsp;&nbsp;<kbd>x86</kbd>&nbsp;&nbsp;<kbd>sBPF</kbd>&nbsp;&nbsp;<kbd>Exploit Dev</kbd>&nbsp;&nbsp;<kbd>Solana</kbd>
 
