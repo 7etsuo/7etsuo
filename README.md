@@ -2,83 +2,127 @@
 
 ![banner](https://github.com/7etsuo/7etsuo/assets/90065760/90234bad-a8d6-4a03-a784-622ccd0c2a54)
 
-**Systems programmer. Security researcher. Founder of [tetsuo.ai](https://tetsuocorp.com).**
-
-<kbd>C</kbd>&nbsp;&nbsp;<kbd>x86</kbd>&nbsp;&nbsp;<kbd>sBPF</kbd>&nbsp;&nbsp;<kbd>Exploit Dev</kbd>&nbsp;&nbsp;<kbd>Solana</kbd>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&height=35&lines=systems+programmer;security+researcher;founder+of+tetsuo.ai)](https://github.com/7etsuo)
 
 </div>
 
 ---
 
-I build networking stacks, exploit tooling, and AI infrastructure — mostly from scratch, mostly in C.
+```c
+typedef struct {
+    const char *name;
+    const char *role;
+    const char *org;
+    const char *focus[5];
+} developer_t;
 
-## Networking & Systems
+static const developer_t tetsuo = {
+    .name  = "7etsuo",
+    .role  = "systems programmer & security researcher",
+    .org   = "tetsuo.ai",
+    .focus = {
+        "networking stacks from scratch in C",
+        "exploit development & ROP chains",
+        "x86 and Solana BPF assembly",
+        "decentralized AI infrastructure",
+    }
+};
+```
 
-| Project | Description |
-|---------|-------------|
-| [**tetsuo-pulse**](https://github.com/7etsuo/tetsuo-pulse) | Socket library with hand-rolled TLS 1.3, HTTP/2, QUIC v1, WebSocket, io_uring, arena allocator |
-| [**tcurl**](https://github.com/7etsuo/tcurl) | curl rebuilt from zero — TLS handshake, HPACK, DNS resolver with DoT/DoH/DNSSEC, SOCKS proxy, connection pooling |
-| [**http-server**](https://github.com/7etsuo/http-server) | HTTP server in C — non-blocking I/O, method dispatching, concurrent connections |
+---
 
-## Security & Exploit Development
+<h2>Networking & Systems</h2>
 
-| Project | Description |
-|---------|-------------|
-| [**windows-api-function-cheatsheets**](https://github.com/7etsuo/windows-api-function-cheatsheets) | Comprehensive Windows API reference — file ops, process management, Winsock, registry &nbsp; ` 1.4k+ ★` |
-| [**win32-shellcode**](https://github.com/7etsuo/win32-shellcode) | Visual guide to crafting and understanding Win32 shellcode |
-| [**deepfreeze-exploit**](https://github.com/7etsuo/deepfreeze-exploit) | DeepFreeze 8.38 RCE — SEH overflow, custom ROP chain, two-phase encryption bypass |
-| [**ROP-Lab-Server**](https://github.com/7etsuo/ROP-Lab-Server) | Educational platform for buffer overflow and return-oriented programming techniques |
+<p align="left">
+  <a href="https://github.com/7etsuo/tetsuo-pulse"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-pulse&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-pulse" /></a>
+  <a href="https://github.com/7etsuo/tcurl"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tcurl&theme=radical&hide_border=true&show_icons=false" alt="tcurl" /></a>
+  <a href="https://github.com/7etsuo/http-server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=http-server&theme=radical&hide_border=true&show_icons=false" alt="http-server" /></a>
+</p>
 
-## Assembly
+<h2>Security & Exploit Development</h2>
 
-| Project | Description |
-|---------|-------------|
-| [**Learn-Solana-BPF-Assembly**](https://github.com/7etsuo/Learn-Solana-BPF-Assembly) | Complete sBPF guide — from fundamentals to token transfers in 56 compute units |
-| [**x86**](https://github.com/7etsuo/x86) | x86 assembly cheat sheet — instruction sets, memory management, jump tables |
-| [**x86-assembler**](https://github.com/7etsuo/x86-assembler) | x86 assembler written in C |
+<p align="left">
+  <a href="https://github.com/7etsuo/windows-api-function-cheatsheets"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=windows-api-function-cheatsheets&theme=radical&hide_border=true&show_icons=false" alt="windows-api-function-cheatsheets" /></a>
+  <a href="https://github.com/7etsuo/win32-shellcode"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=win32-shellcode&theme=radical&hide_border=true&show_icons=false" alt="win32-shellcode" /></a>
+  <a href="https://github.com/7etsuo/deepfreeze-exploit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=deepfreeze-exploit&theme=radical&hide_border=true&show_icons=false" alt="deepfreeze-exploit" /></a>
+</p>
 
-## [tetsuo.ai](https://github.com/tetsuo-ai)
+<h2>Assembly</h2>
 
-Decentralized AI agent infrastructure on Solana.
+<p align="left">
+  <a href="https://github.com/7etsuo/Learn-Solana-BPF-Assembly"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=Learn-Solana-BPF-Assembly&theme=radical&hide_border=true&show_icons=false" alt="Learn-Solana-BPF-Assembly" /></a>
+  <a href="https://github.com/7etsuo/x86"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=x86&theme=radical&hide_border=true&show_icons=false" alt="x86" /></a>
+  <a href="https://github.com/7etsuo/x86-assembler"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=x86-assembler&theme=radical&hide_border=true&show_icons=false" alt="x86-assembler" /></a>
+</p>
 
-| Project | Description |
-|---------|-------------|
-| [**AgenC**](https://github.com/tetsuo-ai/AgenC) | On-chain agent coordination protocol — registry, task marketplace, ZK proofs, escrow |
-| [**DigitSuo**](https://github.com/tetsuo-ai/DigitSuo) | Neural network in pure C — 98% MNIST accuracy, &lt;10ms inference |
-| [**tetsuo-code**](https://github.com/tetsuo-ai/tetsuo-code) | Open-source AI coding assistant powered by Grok |
-| [**memsuo**](https://github.com/tetsuo-ai/memsuo) | C memory library — jemalloc, secure allocators, arena GC |
-| [**grok-api-mcp**](https://github.com/tetsuo-ai/grok-api-mcp) | MCP server for xAI/Grok API documentation |
+<h2><a href="https://tetsuocorp.com">tetsuo.ai</a></h2>
+
+<p>Decentralized AI agent infrastructure on Solana.</p>
+
+<p align="left">
+  <a href="https://github.com/tetsuo-ai/AgenC"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=AgenC&theme=radical&hide_border=true&show_icons=false" alt="AgenC" /></a>
+  <a href="https://github.com/tetsuo-ai/DigitSuo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=DigitSuo&theme=radical&hide_border=true&show_icons=false" alt="DigitSuo" /></a>
+  <a href="https://github.com/tetsuo-ai/tetsuo-code"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=tetsuo-code&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-code" /></a>
+</p>
 
 <details>
 <summary><b>More projects</b></summary>
 <br>
 
-| Project | Description |
-|---------|-------------|
-| [dragon-fight](https://github.com/7etsuo/dragon-fight) | Side-scrolling beat 'em up in C with raylib |
-| [ytdl](https://github.com/7etsuo/ytdl) | YouTube downloader with ncurses TUI in C |
-| [SecurePassGen](https://github.com/7etsuo/SecurePassGen) | Cryptographically secure password generator — platform-native CSPRNGs |
-| [tetsuo-dox-agent](https://github.com/7etsuo/tetsuo-dox-agent) | Graph-based LLM research agent with self-reflection and citations |
-| [galaga](https://github.com/7etsuo/galaga) | Galaga in the terminal |
-| [nodobe](https://github.com/7etsuo/nodobe) | Image editor |
-| [tetsuo-gpu-miner](https://github.com/7etsuo/tetsuo-gpu-miner) | Multi-GPU CUDA miner with auto device detection |
-| [image-description-mcp_server](https://github.com/7etsuo/image-description-mcp_server) | MCP server for image analysis via Grok vision |
-| [webscraper](https://github.com/7etsuo/webscraper) | Multi-threaded web image scraper in C |
-| [meteomatics-c-client](https://github.com/7etsuo/meteomatics-c-client) | Lightweight C client for Meteomatics Weather API |
-| [neovim-agentic-copilot](https://github.com/7etsuo/neovim-agentic-copilot) | Neovim config with agentic Copilot integration |
+<p align="left">
+  <a href="https://github.com/7etsuo/dragon-fight"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=dragon-fight&theme=radical&hide_border=true&show_icons=false" alt="dragon-fight" /></a>
+  <a href="https://github.com/7etsuo/ROP-Lab-Server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=ROP-Lab-Server&theme=radical&hide_border=true&show_icons=false" alt="ROP-Lab-Server" /></a>
+  <a href="https://github.com/7etsuo/SecurePassGen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=SecurePassGen&theme=radical&hide_border=true&show_icons=false" alt="SecurePassGen" /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/7etsuo/ytdl"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=ytdl&theme=radical&hide_border=true&show_icons=false" alt="ytdl" /></a>
+  <a href="https://github.com/7etsuo/tetsuo-dox-agent"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-dox-agent&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-dox-agent" /></a>
+  <a href="https://github.com/tetsuo-ai/memsuo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=memsuo&theme=radical&hide_border=true&show_icons=false" alt="memsuo" /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/tetsuo-ai/grok-api-mcp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tetsuo-ai&repo=grok-api-mcp&theme=radical&hide_border=true&show_icons=false" alt="grok-api-mcp" /></a>
+  <a href="https://github.com/7etsuo/galaga"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=galaga&theme=radical&hide_border=true&show_icons=false" alt="galaga" /></a>
+  <a href="https://github.com/7etsuo/tetsuo-gpu-miner"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=7etsuo&repo=tetsuo-gpu-miner&theme=radical&hide_border=true&show_icons=false" alt="tetsuo-gpu-miner" /></a>
+</p>
 
 </details>
 
 ---
 
-**Open Source**&ensp; [Microsoft](https://github.com/MicrosoftDocs/win32/pull/1551) · [Rust](https://github.com/rust-lang/rust-by-example/pull/1694) · [Kali Linux](https://gitlab.com/kalilinux/documentation/kali-docs/-/merge_requests/281) · [Kali Blog](https://www.kali.org/blog/kali-linux-2023-1-release/#community-shout-outs) · [Ronin](https://github.com/ronin-rb/ronin-rb.github.io/pull/20)
+<p>
+<b>Open Source</b>&ensp;
+<a href="https://github.com/MicrosoftDocs/win32/pull/1551">Microsoft</a> ·
+<a href="https://github.com/rust-lang/rust-by-example/pull/1694">Rust</a> ·
+<a href="https://gitlab.com/kalilinux/documentation/kali-docs/-/merge_requests/281">Kali Linux</a> ·
+<a href="https://www.kali.org/blog/kali-linux-2023-1-release/#community-shout-outs">Kali Blog</a> ·
+<a href="https://github.com/ronin-rb/ronin-rb.github.io/pull/20">Ronin</a>
+</p>
 
-<details>
-<summary><b>Stats</b></summary>
-<br>
+---
+
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=7etsuo&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=7etsuo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7etsuo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=7etsuo&theme=radical&hide_border=true" alt="streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7etsuo&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=7etsuo&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="trophies" />
 
 </div>
-</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7etsuo/7etsuo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7etsuo/7etsuo/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/7etsuo/7etsuo/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:fe428e&height=80&section=footer" width="100%" />
