@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Cards
 
 on:
   schedule:
@@ -6,7 +6,58 @@ on:
   workflow_dispatch:
 
 jobs:
+  # One job per README card. Read-only token: the card renderer never gets push rights.
+  # If any card fails, nothing is published and the output branch keeps last night's cards.
+  cards:
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        include:
+          - { file: pin-tetsuo-pulse, card: pin, options: "username=7etsuo&repo=tetsuo-pulse&theme=radical&hide_border=true" }
+          - { file: pin-tcurl, card: pin, options: "username=7etsuo&repo=tcurl&theme=radical&hide_border=true" }
+          - { file: pin-http-server, card: pin, options: "username=7etsuo&repo=http-server&theme=radical&hide_border=true" }
+          - { file: pin-windows-api-function-cheatsheets, card: pin, options: "username=7etsuo&repo=windows-api-function-cheatsheets&theme=radical&hide_border=true" }
+          - { file: pin-win32-shellcode, card: pin, options: "username=7etsuo&repo=win32-shellcode&theme=radical&hide_border=true" }
+          - { file: pin-deepfreeze-exploit, card: pin, options: "username=7etsuo&repo=deepfreeze-exploit&theme=radical&hide_border=true" }
+          - { file: pin-Learn-Solana-BPF-Assembly, card: pin, options: "username=7etsuo&repo=Learn-Solana-BPF-Assembly&theme=radical&hide_border=true" }
+          - { file: pin-x86, card: pin, options: "username=7etsuo&repo=x86&theme=radical&hide_border=true" }
+          - { file: pin-x86-assembler, card: pin, options: "username=7etsuo&repo=x86-assembler&theme=radical&hide_border=true" }
+          - { file: pin-AgenC, card: pin, options: "username=tetsuo-ai&repo=AgenC&theme=radical&hide_border=true" }
+          - { file: pin-DigitSuo, card: pin, options: "username=tetsuo-ai&repo=DigitSuo&theme=radical&hide_border=true" }
+          - { file: pin-tetsuo-code, card: pin, options: "username=tetsuo-ai&repo=tetsuo-code&theme=radical&hide_border=true" }
+          - { file: pin-dragon-fight, card: pin, options: "username=7etsuo&repo=dragon-fight&theme=radical&hide_border=true" }
+          - { file: pin-ROP-Lab-Server, card: pin, options: "username=7etsuo&repo=ROP-Lab-Server&theme=radical&hide_border=true" }
+          - { file: pin-SecurePassGen, card: pin, options: "username=7etsuo&repo=SecurePassGen&theme=radical&hide_border=true" }
+          - { file: pin-ytdl, card: pin, options: "username=7etsuo&repo=ytdl&theme=radical&hide_border=true" }
+          - { file: pin-tetsuo-dox-agent, card: pin, options: "username=7etsuo&repo=tetsuo-dox-agent&theme=radical&hide_border=true" }
+          - { file: pin-memsuo, card: pin, options: "username=tetsuo-ai&repo=memsuo&theme=radical&hide_border=true" }
+          - { file: pin-grok-api-mcp, card: pin, options: "username=tetsuo-ai&repo=grok-api-mcp&theme=radical&hide_border=true" }
+          - { file: pin-galaga, card: pin, options: "username=7etsuo&repo=galaga&theme=radical&hide_border=true" }
+          - { file: pin-tetsuo-gpu-miner, card: pin, options: "username=7etsuo&repo=tetsuo-gpu-miner&theme=radical&hide_border=true" }
+          - { file: stats, card: stats, options: "username=7etsuo&show_icons=true&theme=radical&hide_border=true&count_private=true" }
+          - { file: top-langs, card: top-langs, options: "username=7etsuo&layout=compact&theme=radical&hide_border=true&langs_count=8" }
+    steps:
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: ${{ matrix.card }}
+          options: ${{ matrix.options }}
+          path: cards/${{ matrix.file }}.svg
+          core_version: "2.3.1"
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: card-${{ matrix.file }}
+          path: cards/${{ matrix.file }}.svg
+          if-no-files-found: error
+          retention-days: 1
+
   build:
+    needs: cards
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -18,6 +69,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: actions/download-artifact@v8
+        with:
+          pattern: card-*
+          path: dist/cards
+          merge-multiple: true
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
